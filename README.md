@@ -11,4 +11,20 @@
 
 
 # 哈希
-[day05-有效字母异位-快乐数](3-Hash/day05-有效字母异位-快乐数.md)
+[day06-有效字母异位-快乐数](3-Hash/day06-有效字母异位-快乐数.md)
+[day07-三数之和-四数之和-赎金信-四数相加](3-Hash/day07-三数之和-四数之和-赎金信-四数相加.md)
+
+# 字符串
+[day08](4-String/day08-反转字符串-替换数字.md)
+[day09](4-String/day09-右旋-反转单词.md)
+
+# 栈和队列
+[Stack&Que](5-stack_que/stack_que.md)
+
+# 二叉树
+[BinaryTree](6-Binary_tree/binary-tree.md)
+
+# 回溯
+[BackTrack](7-backtrack/backtrack.md)
+
+
