@@ -27,4 +27,9 @@
 # 回溯
 [BackTrack](7-backtrack/backtrack.md)
 
+# 贪心
+[Greedy](8-greedy/greedy.md)
+
+# 动规
+[DP](9-DP/DP.md)
 
